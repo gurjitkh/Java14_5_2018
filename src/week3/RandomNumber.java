@@ -1,4 +1,4 @@
-package week3.example1;
+package week3;
 import  java.security.SecureRandom;
 public class RandomNumber {
 
